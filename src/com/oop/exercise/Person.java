@@ -4,6 +4,7 @@ public class Person {
 	
 	public String name, address, age;
 
+	// Constructor
 	public Person() {
 		
 	}
